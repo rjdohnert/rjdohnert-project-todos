@@ -25,5 +25,5 @@
 
 ## Estimated Time Of Completion
 
-1 month
+2 months estimated, it truly will depend on how much time I have to dedicate to the shell
 
